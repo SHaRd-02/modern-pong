@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1745014926|58684438649';
+const CACHE_VERSION = '1745058599|102358693485';
 /** @type {string} */
 const CACHE_PREFIX = 'modern pong-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
