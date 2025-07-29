@@ -27,7 +27,6 @@
 ```bash
 git clone https://github.com/yourusername/modern-pong.git
 cd modern-pong
-´´
 ```
 2.	Open the project in Godot (3.5+ or 4.x)
 3.	Run the Main.tscn scene.
@@ -41,10 +40,12 @@ This project is configured for HTML5 export. To set it up as a PWA:
 
 📷 Screenshots
 
+```html
 <p align="center">
   <img src="screenshots/main_menu.png" width="400" alt="Main Menu" />
   <img src="screenshots/gameplay.png" width="400" alt="Gameplay" />
 </p>
+```
 
 
 🛠️ Built With
