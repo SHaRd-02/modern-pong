@@ -27,9 +27,10 @@
 ```bash
 git clone https://github.com/yourusername/modern-pong.git
 cd modern-pong
-
-	2.	Open the project in Godot (3.5+ or 4.x)
-	3.	Run the Main.tscn scene.
+´´
+```
+2.	Open the project in Godot (3.5+ or 4.x)
+3.	Run the Main.tscn scene.
 
 📦 Exporting as a PWA
 
