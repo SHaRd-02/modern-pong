@@ -1,0 +1,56 @@
+# 🕹️ Modern Pong
+
+**Modern Pong** is a modern take on the classic Pong game, featuring a clean user interface, local two-player mode, and full Progressive Web App (PWA) support built with Godot Engine.
+
+## 🚀 Features
+
+- 🎮 Local two-player mode (shared keyboard)
+- 🖼️ Modern and responsive UI
+- ⚡ Playable on desktop and mobile devices
+- 📲 PWA support: install and play offline
+- 🔊 Smooth animations and sound effects
+
+## 🧩 Controls
+
+**Player 1 (left paddle):**
+- 🔼 `W`
+- 🔽 `S`
+
+**Player 2 (right paddle):**
+- 🔼 `Arrow Up`
+- 🔽 `Arrow Down`
+
+## 🔧 Running Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/modern-pong.git
+cd modern-pong
+
+	2.	Open the project in Godot (3.5+ or 4.x)
+	3.	Run the Main.tscn scene.
+
+📦 Exporting as a PWA
+
+This project is configured for HTML5 export. To set it up as a PWA:
+	•	Enable HTML5 export in Godot.
+	•	Configure manifest.json and service_worker.js if needed.
+	•	Host on any static site service (e.g., GitHub Pages, Netlify, Itch.io).
+
+📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/main_menu.png" width="400" alt="Main Menu" />
+  <img src="screenshots/gameplay.png" width="400" alt="Gameplay" />
+</p>
+
+
+🛠️ Built With
+	•	Godot Engine
+	•	HTML5 export for web and PWA support
+
+📄 License
+
+This project is licensed under the MIT License.
+
